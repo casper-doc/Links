@@ -2,5 +2,5 @@
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
-- [View COMP1238 Notes](/comp1238)
+- [Comp1238](https://github.com/casper-doc/Links/blob/main/comp1238.md)
 
